@@ -1,10 +1,9 @@
 
-# appetite.studio 🍳
-
-We strive to do good for the world and everyone around us by building solutions that positively impact society.
-
 ![Logo](https://raw.githubusercontent.com/appetitestudio/.github/main/banner.png)
 
+
+
+We strive to do good for the world and everyone around us by building solutions that positively impact society.
 
 ## ⚖️ Values
 
