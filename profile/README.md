@@ -28,7 +28,7 @@ We embrace creativity, experimentation, and continuous learning to develop groun
 Integrity
 
 ```bash
-  We prioritize honesty, transparency, and accountability in all our interactions.
+We prioritize honesty, transparency, and accountability in all our interactions.
 ```
 
 
