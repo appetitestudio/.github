@@ -6,8 +6,8 @@
 
 Goodness
 ```bash
-We strive to do good for the world and everyonearound us by building solutions that positively
-impact society.
+We strive to do good for the world and everyone around us by building solutions that positively impact society.
+
 ```
 
 Resilience
