@@ -5,7 +5,7 @@
 
 We strive to do good for the world and everyone around us by building solutions that positively impact society.
 
-## ⚖️ Values
+## ⚖️  Our Values
 
 Goodness
 ```bash
@@ -32,7 +32,7 @@ We prioritize honesty, transparency, and accountability in all our interactions.
 ```
 
 
-## contact us
+## ✉️ Contact us
 
 ```bash
  👋 hi@appetite.studio
