@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/appetitestudio/.github/main/appetite-icon.png)
+![Logo](https://raw.githubusercontent.com/appetitestudio/.github/main/banner-1.png)
 
 
 
