@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/appetitestudio/.github/main/banner.png)
+![Logo](https://raw.githubusercontent.com/appetitestudio/.github/main/appetite-icon.png)
 
 
 
@@ -30,10 +30,6 @@ Integrity
 ```bash
   We prioritize honesty, transparency, and accountability in all our interactions.
 ```
-
-
-
-btw, all our profits go to charity.  [learn more](https://appetite.studio/contact)
 
 
 ## contact us
