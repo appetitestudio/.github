@@ -1,8 +1,10 @@
 
 ![Logo](https://raw.githubusercontent.com/appetitestudio/.github/main/banner.png)
 
+## Build cool stuff for a better world 🌍✨
 
 ## ⚖️  Our Values
+
 
 Goodness
 ```bash
