@@ -1,7 +1,7 @@
 
 ![Logo](https://raw.githubusercontent.com/appetitestudio/.github/main/banner.png)
 
-## Build cool stuff for a better world 🌍✨
+## Web3 & Ai studio for public good ⛰️
 
 ## ⚖️  Our Values
 
