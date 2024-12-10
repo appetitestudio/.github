@@ -3,8 +3,6 @@
 
 ## Web3 & Ai studio for public good ⛰️
 
-## ⚖️  Our Values
-
 
 Goodness
 ```bash
